@@ -1,2 +1,2 @@
-# Diabetes-Detection
-The DS project
+# Diabetes-Prediction
+This project acts as the stepping stone for learning Data Science
